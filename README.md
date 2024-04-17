@@ -1,4 +1,4 @@
 # React + TypeScript + Vite
 
-npm install
-vite dev
+1. npm install
+2. vite dev
